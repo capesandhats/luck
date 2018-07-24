@@ -60,8 +60,8 @@ def expectedCombinations(num, combi):
     combinations = num*(num-1)*(num-2)*(num-4)
 
 expectedCombinations(49,6)
-expectedCombinations(7,6)
-expectedCombinations(20,6)
+#expectedCombinations(7,6)
+#expectedCombinations(20,6)
 
 # comb1 = CoreFunctions.Combination(20,6,4,5,35,9)
 
